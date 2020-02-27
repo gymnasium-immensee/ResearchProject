@@ -12,7 +12,7 @@
 | Fr., 3. April, 13:30 | [🎤 Präsentationen](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-3%EF%B8%8F⃣) |
 | Fr., 3. April, 15:30 | [🍰 Apéro](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-3%EF%B8%8F⃣) |
 
-### Benchmark 1️⃣ Themenwahl 
+### Benchmark 1️⃣ Themenwahl  <p id="nxt"></p>
 
 * Die Schüler_innen wählen mindestens drei Themen nach Wahl aus dem Katalog aus, möglichst aus verschiedenen Fachbereichen. Es ist auch möglich, eigene Themen einzubringen.
 * Der Forschungsprojektideenkatalog erscheint nach den Sportferien.
@@ -52,3 +52,24 @@
     * Geschichte
     * Z-327
 * Apéro @ Zimmer 328
+
+<script>
+var countDownDate = new Date("Jan 5, 2021 15:37:25").getTime();
+var x = setInterval(function() {
+  var now = new Date().getTime();
+  var distance = countDownDate - now;
+    
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+    
+  document.getElementById("nxt").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+    
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("nxt").innerHTML = "✅";
+  }
+}, 1000);
+</script>
