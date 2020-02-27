@@ -12,7 +12,9 @@
 | Fr., 3. April, 13:30 | [🎤 Präsentationen](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-3%EF%B8%8F⃣) |
 | Fr., 3. April, 15:30 | [🍰 Apéro](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-3%EF%B8%8F⃣) |
 
-### Benchmark 1️⃣ Themenwahl  <p id="nxt"></p>
+### Benchmark 1️⃣ Themenwahl
+
+<p id="nxt"></p>
 
 * Die Schüler_innen wählen mindestens drei Themen nach Wahl aus dem Katalog aus, möglichst aus verschiedenen Fachbereichen. Es ist auch möglich, eigene Themen einzubringen.
 * Der Forschungsprojektideenkatalog erscheint nach den Sportferien.
