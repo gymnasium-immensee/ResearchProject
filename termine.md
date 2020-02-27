@@ -7,9 +7,10 @@
 | Fr., 13. März, 17h | [Benchmark 1️⃣ Themenwahl ](https://gymnasium-immensee.github.io/ResearchProject/termine.html#benchmark-1%EF%B8%8F⃣-themenwahl)|
 | Fr., 20. März, 17h | [Benchmark 2️⃣ Fragestellung & Hypothesen](https://gymnasium-immensee.github.io/ResearchProject/termine.html#benchmark-2%EF%B8%8F⃣-fragestellung--hypothesen) |
 | Fr., 27. März, 17h | [Benchmark 3️⃣ Methoden & Material ](https://gymnasium-immensee.github.io/ResearchProject/termine.html#benchmark-3%EF%B8%8F⃣-methoden--material)|
-| Mi., 1. April | [Blocktag 1️⃣](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-1%EF%B8%8F⃣) |
-| Do., 2. April | [Blocktag 2️⃣](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-2%EF%B8%8F⃣) |
-| Fr., 3. April | [Blocktag 3️⃣](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-3%EF%B8%8F⃣) |
+| Mi., 1. April, 8:05 | [Eröffnung der Blocktage](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-1%EF%B8%8F⃣) |
+| Do., 2. April, 8:05 | [Arbeit an den Projekten](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-2%EF%B8%8F⃣) |
+| Fr., 3. April, 13:30 | [🎤 Präsentationen](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-3%EF%B8%8F⃣) |
+| Fr., 3. April, 15:30 | [🍰 Apéro](https://gymnasium-immensee.github.io/ResearchProject/termine.html#blocktag-3%EF%B8%8F⃣) |
 
 ### Benchmark 1️⃣ Themenwahl 
 
