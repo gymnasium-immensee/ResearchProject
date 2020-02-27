@@ -1,6 +1,6 @@
 ## 📜 Wichtige Dokumente
 
-Bitte logge dich jeweils mit deinen Office365-Zugangsdaten an.
+Bitte melde dich jeweils mit deinen Office365-Zugangsdaten an.
 
 ### 📄 [Vorlage für das Research Paper](https://gymnasiumimmensee.sharepoint.com/:w:/r/sites/ResearchProject-Admin/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7B70099B16-0AD9-4440-B92F-3E4EFEBCB0CF%7D)  
 
